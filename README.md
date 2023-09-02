@@ -52,5 +52,5 @@ author = {Dipak Kumar Agrawal},
 title = {Smartphone Sensor Data Collection for Physical and Fall Activities},
 year = {2023},
 publisher = {GitHub},
-howpublished = {\url{https://github.com/dkagrawal9/Smartphone-Sensor-Data-for-HAR-and-Fall-Classification}},
+howpublished = {\url{https://github.com/dkagrawal9/Smartphone-Sensor-Data-for-HAR-and-Fall-Classification.git}},
 }
