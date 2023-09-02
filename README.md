@@ -47,6 +47,7 @@ To get started with this dataset, follow these steps:
 ## Citation
 
 If you use this dataset in your work, please cite it using the following citation format:
+
 @misc{dkagrawal9/Smartphone-Sensor-Data-for-HAR-and-Fall-Classification,
 author = {Dipak Kumar Agrawal},
 title = {Smartphone Sensor Data Collection for Physical and Fall Activities},
