@@ -47,10 +47,10 @@ To get started with this dataset, follow these steps:
 ## Citation
 
 If you use this dataset in your work, please cite it using the following citation format:
-@misc{yourgithubusername/your-repo-name,
-author = {Your Name},
+@misc{dkagrawal9/Smartphone-Sensor-Data-for-HAR-and-Fall-Classification,
+author = {Dipak Kumar Agrawal},
 title = {Smartphone Sensor Data Collection for Physical and Fall Activities},
-year = {Year},
+year = {2023},
 publisher = {GitHub},
-howpublished = {\url{https://github.com/yourgithubusername/your-repo-name}},
+howpublished = {\url{https://github.com/dkagrawal9/Smartphone-Sensor-Data-for-HAR-and-Fall-Classification}},
 }
